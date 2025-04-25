@@ -22,7 +22,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=Mayank-dotcom&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### 😂 Random Dev Meme
-<img src="https://meme-api.com/gimme/programmerhumor" height="400px" />
+<img src="https://imgs.search.brave.com/Hudzs8szc0ygSJ2_0-I4-e3GIo0v0vH10kDcmGLjSHU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnJl/ZGQuaXQvN3RtaXFw/bGs0bXVlMS5qcGVn" height="400px" />
 
 ---
 ![Visitor Count](https://komarev.com/ghpvc/?username=Mayank-dotcom&color=blue)
