@@ -25,6 +25,7 @@
 <img src="https://meme-api.com/gimme/programmerhumor" height="400px" />
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Mayank-dotcom&icon=0&color=0)](https://visitcount.itsvg.in)
+![Visitor Count](https://komarev.com/ghpvc/?username=Mayank-dotcom&color=blue)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
