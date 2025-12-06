@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Aspiring Web Developer<br>👨‍💻 Currently pursuing a Bachelor's degree in AIML<br>🌱 Pursuing a certification in Full Stack Web Development<br>⚡Fun Fact - Heavily driven by music🎧🎵🎶<br><br>
+🔭 Aspiring Web + AI Developer<br>👨‍💻 Currently pursuing a Bachelor's degree in AIML<br>🌱 Pursuing a certification in Full Stack Web Development<br>⚡Fun Fact - Heavily driven by music🎧🎵🎶<br><br>
 
 
 ## 🌐 Socials:
